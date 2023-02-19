@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **diannurch/diannurch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Halo semua! 
+## Halo semua 👋
 Perkenalkan nama saya **Dian Nurcahya Ningrum**.\
 Saya seorang Mahasiswa jurusan Teknik Informatika di Universitas Pasundan.
  
