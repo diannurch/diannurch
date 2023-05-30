@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-## Halo semua 👋
-Perkenalkan nama saya **Dian Nurcahya Ningrum**.\
-Saya seorang Mahasiswa jurusan Teknik Informatika di Universitas Pasundan.
+## Halo! 👋 I'm Dian Nurcahya Ningrum
+Student of Informatics Engineering at Universitas Pasundan, I have an interest in web development.
  
 <p align="left">
 <a href="https://github.com/diannurch">
