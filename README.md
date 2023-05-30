@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hi! 👋 I'm Dian Nurcahya Ningrum</h1>
+<h5 align="center">Student of Informatics Engineering at Universitas Pasundan, I have an interest in web development.</h5>
 
-## Halo! 👋 I'm Dian Nurcahya Ningrum
-Student of Informatics Engineering at Universitas Pasundan, I have an interest in web development.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diannurch&label=Profile%20views&color=0e75b6&style=flat" alt="diannurch" /> </p>
+
+- 📫 How to reach me: diannurcahya52@gmail.com
+- ⚡ Fun fact: Love Learning
  
 <p align="left">
 <a href="https://github.com/diannurch">
